@@ -141,5 +141,18 @@ Als feedback heb ik vaak gekregen dat ik een stille student ben maar technisch h
 
 [OnStage Functioneringsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL3-FG_HermansMante.pdf)
 
-[OnStage Evalutiegesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL3-EG_HermansMante.pdf)
+[OnStage Evaluatiegesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL3-EG_HermansMante.pdf)
 
+## Overzicht ontwikkelingsgesprekken WPL 4
+
+Tijdens WPL4 heb ik vooral verder gewerkt aan mijn graduaatsproef rond centrale IT-monitoring en incidentbeheer via Power BI. Hierbij heb ik veel bijgeleerd over API-integraties, dataverwerking en automatisatie binnen een professionele IT-omgeving. Ik heb gewerkt met databronnen zoals ExtremeCloudIQ, Phished, TOPdesk en FortiManager waarbij ik data via API’s ophaalde en verwerkte in Power BI. Daarnaast heb ik ervaring opgedaan met Microsoft Power Automate voor het automatiseren van incidentbeheer.
+
+Op technisch vlak heb ik mijn kennis rond Power Query, JSON-verwerking en API-authenticatie sterk uitgebreid. Ik heb geleerd hoe grote datasets efficiënt verwerkt kunnen worden binnen een datamodel. Ook heb ik nog verder inzicht gekregen in Microsoft 365, namelijk Intune en Entra in de productieomgeving.
+
+Als feedback kreeg ik dat mijn technische kennis sterk is en dat ik kwalitatief werk aflever binnen complexe IT-projecten. Vooral binnen troubleshooting, automatisatie, API-integraties en Power BI-projecten werd mijn zelfstandigheid en probleemoplossend denken positief beoordeeld. Daarnaast werd aangegeven dat ik rustig, analytisch en nauwkeurig werk en veel doorzettingsvermogen toon bij technische problemen.
+
+Een belangrijk werkpunt blijft het assertiever opvolgen van afhankelijkheden binnen projecten en het sneller documenteren tijdens lopende opdrachten. Over het algemeen werd mijn traject als sterk en professioneel geëvalueerd, met een duidelijke groei op zowel technisch als persoonlijk vlak.
+
+[OnStage Functioneringsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL4-FG_HermansMante.pdf)
+
+[OnStage Evaluatiegesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL4-EG_HermansMante.pdf)
