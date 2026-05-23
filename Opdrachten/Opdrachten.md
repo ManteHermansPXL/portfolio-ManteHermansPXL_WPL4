@@ -82,3 +82,18 @@ Installatie en implementatie FOG-imaging solution. Deze is geinstalleerd op een 
 [Probleemsituatie Naverwerking](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/ProbleemsituatieWPL32SNEaHermansMante_Naverwerking.pdf)
 
 [Werkkwaliteiten](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_HermansMante_24.pdf)
+
+## Opdrachten WPL4
+
+[(WPL4) Intervisie Maart --- Feedback-Sucessen-Uitdagingen](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL_Intervisie_opdracht_25-03_HermansMante.pdf)
+
+[(WPL4) Intervisie Mei --- Eindreflectie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL_Eindreflectie_HermansMante+26.pdf)
+
+[(GP) Projectvoorstel](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Hermans_Mante_Projectvoorstel.pdf)
+
+[(GP) Plan van Aanpak](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Hermans_Mante_Planvanaanpak.pdf)
+
+[(GP) Samenvatting](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Hermans_Mante_Samenvatting.pdf)
+
+
+
