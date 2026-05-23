@@ -137,11 +137,11 @@ Op vlak van soft skills heb ik ook veel geleerd. Ik heb geleerd om samen te werk
 
 Als feedback heb ik vaak gekregen dat ik een stille student ben maar technisch heel sterk. Bij opdrachten die fysieke aanwezigheid vereisen ben ik nog oncomfortabel of heb uitstelgedrag. Ik heb bij taken die meer soft skills vragen nog aansturing nodig om deze correct uit te voeren, en zelfs dan verlopen deze nog niet heel spontaan. Bij onderzoek van de implementatie van Copilot heb ik een sterke technische basis gemaakt, misschien te technisch, want ik kreeg de feedback dat ik een meer user-friendly document moest maken dat meer paste bij de organisatie. 
 
-[OnStage Planningsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL3-PG_HermansMante.pdf)
+[OnStage Planningsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Ontwikkelingsgesprekken/WPL3-PG_HermansMante.pdf)
 
-[OnStage Functioneringsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL3-FG_HermansMante.pdf)
+[OnStage Functioneringsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Ontwikkelingsgesprekken/WPL3-FG_HermansMante.pdf)
 
-[OnStage Evaluatiegesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL3-EG_HermansMante.pdf)
+[OnStage Evaluatiegesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Ontwikkelingsgesprekken/WPL3-EG_HermansMante.pdf)
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
 
@@ -153,6 +153,6 @@ Als feedback kreeg ik dat mijn technische kennis sterk is en dat ik kwalitatief 
 
 Een belangrijk werkpunt blijft het assertiever opvolgen van afhankelijkheden binnen projecten en het sneller documenteren tijdens lopende opdrachten. Over het algemeen werd mijn traject als sterk en professioneel geëvalueerd, met een duidelijke groei op zowel technisch als persoonlijk vlak.
 
-[OnStage Functioneringsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL4-FG_HermansMante.pdf)
+[OnStage Functioneringsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Ontwikkelingsgesprekken/WPL4-FG_HermansMante.pdf)
 
-[OnStage Evaluatiegesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Ontwikkelingsgesprekken/WPL4-EG_HermansMante.pdf)
+[OnStage Evaluatiegesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Ontwikkelingsgesprekken/WPL4-EG_HermansMante.pdf)

@@ -77,5 +77,5 @@ Tijdens mijn stage heb ik gemerkt hoe belangrijk het is om een evenwicht te vind
 
 Globaal gezien heb ik ervaren dat WPL4 heeft bijgedragen aan een duidelijke groei op zowel technisch als professioneel vlak. Door de combinatie van zelfstandige probleemoplossing, technische verdieping en een projectmatige aanpak heb ik, naar mijn mening, een sterk leertraject doorlopen.
 
-[Eindreflectie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Reflectie/WPL_Eindreflectie_HermansMante+26.pdf) 
+[Eindreflectie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Reflectie/WPL_Eindreflectie_HermansMante+26.pdf) 
 

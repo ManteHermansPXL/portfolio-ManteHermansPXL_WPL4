@@ -73,27 +73,27 @@ Installatie en implementatie FOG-imaging solution. Deze is geinstalleerd op een 
 
 ## Opdrachten WPL3
 
-[Voorbereiding Planningsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Voorbereiding+planningsgesprek+Mante_Hermans.pdf)
+[Voorbereiding Planningsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/Voorbereiding+planningsgesprek+Mante_Hermans.pdf)
 
-[Pitch](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL3_Intervisie_Pitch_Hermans_Mante.pdf)
+[Pitch](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/WPL3_Intervisie_Pitch_Hermans_Mante.pdf)
 
-[Probleemsituatie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/ProbleemsituatieWPL32SNEaHermansMante.pdf)
+[Probleemsituatie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/ProbleemsituatieWPL32SNEaHermansMante.pdf)
 
-[Probleemsituatie Naverwerking](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/ProbleemsituatieWPL32SNEaHermansMante_Naverwerking.pdf)
+[Probleemsituatie Naverwerking](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/ProbleemsituatieWPL32SNEaHermansMante_Naverwerking.pdf)
 
-[Werkkwaliteiten](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_HermansMante_24.pdf)
+[Werkkwaliteiten](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_HermansMante_24.pdf)
 
 ## Opdrachten WPL4
 
-[(WPL4) Intervisie Maart --- Feedback-Sucessen-Uitdagingen](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL_Intervisie_opdracht_25-03_HermansMante.pdf)
+[(WPL4) Intervisie Maart --- Feedback-Sucessen-Uitdagingen](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/WPL_Intervisie_opdracht_25-03_HermansMante.pdf)
 
-[(WPL4) Intervisie Mei --- Eindreflectie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL_Eindreflectie_HermansMante+26.pdf)
+[(WPL4) Intervisie Mei --- Eindreflectie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/WPL_Eindreflectie_HermansMante+26.pdf)
 
-[(GP) Projectvoorstel](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Hermans_Mante_Projectvoorstel.pdf)
+[(GP) Projectvoorstel](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/Hermans_Mante_Projectvoorstel.pdf)
 
-[(GP) Plan van Aanpak](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Hermans_Mante_Planvanaanpak.pdf)
+[(GP) Plan van Aanpak](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/Hermans_Mante_Planvanaanpak.pdf)
 
-[(GP) Samenvatting](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Hermans_Mante_Samenvatting.pdf)
+[(GP) Samenvatting](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL4/Opdrachten/Hermans_Mante_Samenvatting.pdf)
 
 
 
