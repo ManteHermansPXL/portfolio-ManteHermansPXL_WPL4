@@ -63,3 +63,19 @@ Twee punten die ik voornamelijk zie als werkpunten voor mij in WPL4 zijn het con
 
 Als vooruitblik op WPL4 hoop ik nog om meer technische kennis op te doen, vooral op vlak van Microsoft 365 (Intune, Entra, Purview) aangezien ik hier wel een hoge interesse in heb. Ik hoop ook dat we meer inzicht kunnen krijgen in de al bestaande policies en compliance policies van de Intune omgeving. Ook hoop ik om mee te kunnen werken aan de configuratie van de nieuwe firewalls (Fortigate) in WPL4. 
 
+## Reflectie WPL 4
+
+Tijdens WPL4 werd mijn werkplekleren voornamelijk ingevuld door de verdere uitwerking van mijn graduaatsproef rond centrale IT-monitoring en incidentbeheer via Power BI. In deze periode heb ik mezelf technisch verder kunnen versterken binnen verschillende domeinen van systeem- en netwerkbeheer, met een sterke focus op API-integraties, dataverwerking en automatisatie.
+
+Doorheen het traject heb ik gewerkt met verschillende databronnen binnen de organisatie, waaronder monitoring- en securitysystemen. Het opzetten van API-koppelingen en het verwerken van JSON-data in Power BI vroeg een gestructureerde aanpak en een goed begrip van datamodellering en authenticatieprocessen. Dit heeft ervoor gezorgd dat mijn technische vaardigheden in Power Query, data-transformatie en foutanalyse verder zijn gegroeid.
+
+Technische uitdagingen zoals foutieve API-responses, ontbrekende velden en connectiviteitsproblemen vroegen van een geduldige en iteratieve aanpak, waarbij testen, analyseren en bijsturen centraal stonden. Hierdoor heb ik stap voor stap een werkende cockpit opgebouwd die meerdere IT-bronnen samenbrengt in één centrale omgeving.
+
+Op communicatief en professioneel vlak heb ik merkbaar vooruitgang geboekt. Ik nam meer initiatief tijdens overlegmomenten en merkte dat ik mijn technische bevindingen steeds duidelijker en gerichter kon verwoorden. Tegelijk blijft assertieve communicatie en het tijdig afstemmen van afhankelijkheden voor mij een belangrijk aandachtspunt binnen toekomstige projecten.
+
+Tijdens mijn stage heb ik gemerkt hoe belangrijk het is om een evenwicht te vinden tussen technische diepgang en bruikbaarheid binnen een organisatie. In het begin werkte ik vooral heel technisch, maar gaandeweg ben ik meer aandacht beginnen besteden aan leesbaarheid, structuur en hoe bruikbaar iets is binnen de werkcontext.
+
+Globaal gezien heb ik ervaren dat WPL4 heeft bijgedragen aan een duidelijke groei op zowel technisch als professioneel vlak. Door de combinatie van zelfstandige probleemoplossing, technische verdieping en een projectmatige aanpak heb ik, naar mijn mening, een sterk leertraject doorlopen.
+
+[Eindreflectie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Reflectie/WPL_Eindreflectie_HermansMante+26.pdf) 
+
